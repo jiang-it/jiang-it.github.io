@@ -1,0 +1,14 @@
+/* 
+ * simple.css
+ * I tried to make this stylesheet as simple as possible
+ * That makes my website responsive right? Right?
+ */
+
+* {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    margin: auto;
+    text-align: center;
+}
