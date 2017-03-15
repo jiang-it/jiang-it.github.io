@@ -1,0 +1,82 @@
+%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Change the font size of your document - 10pt, 12.1pt, etc.
+\documentclass[letterpaper,11pt,oneside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[colorlinks = true,
+            urlcolor  = blue,
+            ]{hyperref}
+
+\usepackage{graphicx}
+%Change the margins to fit your CV/resume content
+\usepackage[left=1in, right=1in, bottom=1.25in, top=1.25in]{geometry}
+
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%% NAME OF APPLICANT %%%%%%%%%%%%%%%%%%%
+
+\noindent  \LARGE{\textbf{Thomas Jiang}}  \\
+\vspace{-2ex} 
+\hrule
+\normalsize
+\pagenumbering{gobble}
+
+%%%%%%%%%%%%%%%%% CONTACT INFORMATION %%%%%%%%%%%%%%%%%
+ \vspace{1ex}
+ \noindent 
+ \href{mailto:thomasjiang@college.harvard.edu}{thomasjiang@college.harvard.edu} \\
+ \href{www.thomasjiang.com}{www.thomasjiang.com}   \\
+ 263 Winthrop Mail Center \\
+ Cambridge, MA 02138 \\
+ 765-236-6346
+
+\vspace{1em}
+
+%%%%%%%%%%%%%%%%% MAIN BODY %%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The main body is contained in a tabular environment. To move sections onto the next page, simply end the tabular environment and begin a new tabular environment.
+
+\noindent \begin{tabular}{@{} l l}
+ \Large{Education}    & \textbf{Harvard University} \\
+     & Computer Science B.A., 2017 \\
+     & \\
+     & \textbf{Kokomo High School} \\
+     & Salutatorian, 2013 \\
+     & \\
+ \Large{Experience}    & \textbf{Facebook} \\
+     & Software Engineering Intern, Summer 2016 \\
+     & Project: Probabilistic Programming for Hacklang \\
+     & Project: Monads for Hacklang \\
+     & Manager: \href{https://www.linkedin.com/in/erikmeijer1}{Erik Meijer} \\
+     & \\
+     & \textbf{CS152: Programming Languages} \\
+     & Teaching Fellow, Spring 2016 \\
+     & Professor: \href{http://people.seas.harvard.edu/~chong/}{Stephen Chong} \\ 
+     & \\ 
+     & \textbf{Microsoft} \\
+     & Software Engineering Intern: Foundry Internship, Summer 2015 \\
+     & Project: Office Online related Chrome App \\
+     & Manager: \href{https://www.linkedin.com/in/gfmatthews}{George Matthews} \\
+     & \\
+     & \textbf{CS51: Introduction to Computer Science II: Abstraction \& Design}  \\
+     & Teaching Fellow, Spring 2015 \\
+     & Professor: \href{http://www.cs.cornell.edu/~jgm/}{Greg Morrisett} \\
+     & \\
+     & \textbf{Dare Institute} \\
+     & Research Assistant, Summer 2014 \\
+     & Paper: \href{http://psycnet.apa.org/journals/bdb/19/3/1.html}{New Stage of the Model of Hierarchical Complexity} \\
+     & Professor: \href{https://www.linkedin.com/in/michael-lamport-commons-5325955}{Michael Commons} \\
+     & \\
+     & \textbf{Delphi Automotive PLC} \\
+     & Data Intern, Summer 2013 \\
+     & Project: Passive Occupant Detection System Data Analysis \\
+     & Manager: \href{https://www.linkedin.com/in/john-stieglitz-62717610}{John Stieglitz} \\
+     & \\
+  \Large{Languages}   & C, OCaml, php/Hacklang, Javascript, Python, HTML/CSS, R, \LaTeX, \\
+  & English (native), Chinese (elementary) \\
+\end{tabular}
+
+\end{document}
+
