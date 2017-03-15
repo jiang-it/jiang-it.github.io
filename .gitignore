@@ -1,1 +1,10 @@
+# Vim swap files #
+##################
 *~
+
+* LaTEX Build Files #
+#####################
+*.aux
+*.log
+*.out
+*.gz
