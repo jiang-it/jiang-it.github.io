@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg4517"
-   version="1.1"
-   viewBox="0 0 38.779197 38.779194"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.779198mm"
    height="38.779198mm"
-   width="38.779198mm">
+   viewBox="0 0 38.779197 38.779194"
+   version="1.1"
+   id="svg4517"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="puppieslogo.svg">
   <defs
      id="defs4511" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="15.788921"
+     inkscape:cy="67.367942"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:measure-start="145.209,47.414"
+     inkscape:measure-end="0,0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="mm"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4514">
     <rdf:RDF>
@@ -25,19 +57,35 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-42.884206,-58.716656)"
-     id="layer1">
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.884206,-58.716656)">
     <path
-       style="fill:#6184d8;fill-opacity:1;stroke:#533a71;stroke-width:0.26458332;stroke-opacity:1"
+       sodipodi:type="star"
+       id="path4531"
+       sodipodi:sides="4"
+       sodipodi:cx="62.273804"
+       sodipodi:cy="78.106255"
+       sodipodi:r1="27.233944"
+       sodipodi:r2="15.093187"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
        d="m 81.53111,97.363561 -38.514613,0 0,-38.514613 38.514613,0 z"
-       id="path4531" />
+       style="fill:#6184d8;fill-opacity:1;stroke:#533a71;stroke-width:0.26458332;stroke-opacity:1" />
     <path
-       id="path4500"
+       style="fill:#f0f465;fill-opacity:1;stroke:#ffffff;stroke-width:0.551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 59.504265,96.975864 c 0,0 0.980284,-4.713191 0.745013,-5.716994 l -0.737166,-0.02356 c 0,0 0.745014,-1.082227 0.517589,-2.391891 -0.227423,-1.30965 -1.803709,-1.372392 -2.501677,-1.058696 -0.697955,0.313682 -3.732905,1.074378 -4.517132,1.13712 -0.784225,0.06272 -2.278647,-0.229144 -3.587344,-1.227309 0,0 -0.113673,-0.097 0.036,-0.246759 0,0 -0.471351,-0.04711 -0.776338,0.449172 -0.305002,0.496296 -0.266186,0.621065 -0.884486,1.070235 -0.6183,0.449171 -0.097,-1.447322 -0.097,-1.447322 0,0 1.067472,-3.019413 3.740316,-4.139568 0,0 -4.569339,-0.842879 -5.268033,-2.295746 -0.698709,-1.452867 -0.931612,-1.5416 -1.286518,-4.114623 0,0 2.373389,-1.009241 6.144195,-1.574856 0,0 1.641411,-0.78743 1.807773,-1.807774 0.16635,-1.020332 0.08866,-1.142334 0.08866,-1.142334 0,0 1.808011,-2.16413 3.031403,-2.258236 0,0 0.768531,-0.486212 1.913499,-0.501894 1.144968,-0.01575 5.615039,-0.219591 6.352219,0.219576 0.737166,0.439166 0.282318,-0.329378 3.18395,2.838898 2.901618,3.168269 4.61694,3.583375 5.892355,5.990034 1.275424,2.406659 5.955656,5.800379 8.085056,5.71166 v 10.868792 1.419585 0.487986 H 59.454994 Z"
-       style="fill:#f0f465;fill-opacity:1;stroke:#ffffff;stroke-width:0.551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path4500"
+       inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(-42.884206,-58.716656)"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
      style="display:none"
-     id="layer2" />
+     transform="translate(-42.884206,-58.716656)" />
 </svg>
