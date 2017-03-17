@@ -15,7 +15,4 @@ or contact me by <a href="mailto:thomas.r.jiang+website@gmail.com">email</a>.
 
 <a href="{{ site.url }}/files/Resume.pdf">My Resume</a>
 
-
-<footer>
-    <p><small>Jekyll Theme based on <a href="https://github.com/pages-themes/minimal">Minimal</a> by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-</footer>
+{% include aboutfooter.html %}
