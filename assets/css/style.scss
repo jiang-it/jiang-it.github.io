@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.wrapper {
+    width: 925px;
+}
+
+header {
+    width: 200px;
+    text-align: -webkit-right;
+}
+
+header a:link, header a:visited {
+    color: #494949;
+}
+
+header a:active, header a:hover {
+    color: #616161;
+} 
+
+section {
+    width: 700px;
+}
+
+section .posting h3 {
+    margin: 0 0 0 0;
+}   

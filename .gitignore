@@ -2,9 +2,13 @@
 ##################
 *~
 
-* LaTEX Build Files #
+# LaTEX Build Files #
 #####################
 *.aux
 *.log
 *.out
 *.gz
+
+# Jekyll files #
+################
+_site
