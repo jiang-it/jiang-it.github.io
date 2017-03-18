@@ -6,7 +6,13 @@ date: 2017-02-24
 type: Writing
 categories: shakespeare othello
 ---
-Prompt: Some of the most fascinating characters in our plays have been liars, or brilliant storytellers—or both. Using one character as a case study, describe the relationship, be it moral, ethical or psychological, between fiction and falsehood. 
+For Shakespeare: The Later Plays, we were asked to write an essay about one of the three plays we had read up to that point, Measure for Measure, Othello, or King Lear. (We would later read Macbeth before spring break). In these three plays, the action is driven by a handful of characters set out to deceive the others. In this essay, I try to examine the structure of Iago's stories in hopes to drawing some conclusions more broadly of "good storytelling". Personally, I find discussion about how stories are structured to be a fun exercise. For instance, Dan Harmon's Story Structure is an interesting lens to deconstruct stories through. Sometimes it doesn't work, but it's a method of unconvering what makes a story work or not work. 
+
+## Prompt
+
+Some of the most fascinating characters in our plays have been liars, or brilliant storytellers—or both. Using one character as a case study, describe the relationship, be it moral, ethical or psychological, between fiction and falsehood. 
+
+## Stories as Proofs by Contradiction
 
 In Shakespeare’s Othello, Iago causes tragic betrayals through manipulation and deception. Although there is no doubt that Iago is a talented liar, he is also an able storyteller, often relying on stories to further his causes. Iago’s stories are carefully structured in a logical format reminiscent of a mathematical proof by contradiction. Rather than attempt to convince his audience of a false premise, Iago’s stories begin by reaffirming the listener’s preconceived notions about the world and proceed to lead them to draw unfortunate conclusions. In this way, Iago’s fictions are readily accepted and acted upon because the fictions confirm the beliefs of the listeners and are internally consistent. 
 

@@ -10,5 +10,3 @@ layout: default
     {{ post.excerpt }}
 {% endfor %}
 </div>
-
-Something <span data-balloon="Comment!"> that has a comment </span>

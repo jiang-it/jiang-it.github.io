@@ -35,12 +35,15 @@ footer {
     width: 700px;
 }
 
+span {
+    color: #080808;
+}
+
 @media print, screen and (max-width: 960px) {
     header, section, footer {
         width:auto;
     }
 }
-
 
 /** 
  * CSS from balloon.css by kazzkiq
