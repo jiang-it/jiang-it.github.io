@@ -1,0 +1,29 @@
+---
+layout: default
+title:  "Depiction of Memory in A Nostalgist's Map of America"
+date:   2016-05-04
+
+type:   Writing 
+categories: asian-american ali 
+---
+Excerpt
+
+## Prompt
+
+Final essay prompt lost
+
+## Broken Mountains: Personifying and Projecting Landscapes in Ali’s Poems
+
+Writers often draw on and capture their life experiences in their writing, but few ever refer to their work as a map. Not so with Agha Shahid Ali, who named his collection of poems A Nostalgist’s Map of America. In it, Ali blends together the memories associated with nostalgia and the locations associated with maps. Befitting its title, A Nostalgist’s Map of America uses landscapes to evoke memories and uses memories to evoke landscapes. But rather than simply associate locations with memories, Ali imagines his landscapes to be entities with a capacity to remember. In doing so, Ali is able to project other people and their memories onto his landscapes and speak to the fragility and malleability of memory. “A Nostalgia’s Map of America” is Ali’s attempt to freeze, if only for a moment, the rapidly changing and altering landscape that is the human memory. 
+
+Ali motivates a reading of landscapes as having memory in “Snow on the Desert.” In it, Ali drives his sister through the desert and Ali likens the plants, saguaros, to humans. He writes, “the rays hurting each cactus / into memory, a human memory— / for they are human, the Papagos say” (101-102). This comparison is borne out further as Ali notes that the saguaros have veins but are also “a tribe, vulnerable to massacre” (102). Mention of veins associate these plants to Ali’s friend Phil in “A Nostalgist’s Map of America” where Ali writes, “souvenirs of Evanescence / seen disappearing down a route of veins / in an electric rush of cochineal” (37). Considering the plants as a tribe subject to massacre recalls “The Keeper of the Dead Hotel” and the Brisbee Deportation that Ali portrays. Ali then connects these humanoid plants to the greater desert landscape. Ali writes, “I realize that the earth / is thawing from longing into longing and / that we are being forgotten by those arms” (102). The arms that Ali refers to are the frozen arms of the saguaros, who seem to be forgetting Ali. In addition to the plants’ memory, the entire landscape around them responds to their presence. “The sky / taking rapid notes on us as we turn” (102). This note taking behavior is mirrored in “A Nostalgist’s Map of America.” Ali similarly personifies trees, writing “the eavesdropping willows write brief notes / on grass, then hide them in shadows of trunks” (37). The personification of the environment as a being able to take notes suggests that Ali has come to associate people with the landscapes and that those landscapes have their own memories. 
+
+Ali’s mention of the desert becoming an ocean connects “Snow on the Desert” with “I Dream I Return to Tucson in the Monsoons” in which Ali makes the same comparison. In this poem, Ali writes, “There was only the desert below / The moon touched my shoulder / and I longed for a vanished love” (30). However, this landscape does not seem to have any recollection of Ali’s longing. “I am alone I'm still alone / and there's no trace anywhere of the drowned” (31). There are no traces left because the landscape itself has shifted. The desert becomes an ocean and then becomes a desert. In effect, the rain has washed away any memories the landscape undoubtedly once had. This is evidence that Ali considers memory to be soft and impermanent.
+
+This too is borne out in Ali’s other poems. The plants with their human memories forget (102). Ali even goes so far as to voluntarily forget parts of his memory. This is evident in “A Nostalgist’s Map of America,” in which Ali writes that, “I thought / of your pain as a formal feeling, one / useful for the letting go” (37). If one were to consider memory as constantly being erased and rewritten by a variety of forces, a sort of natural palimpsest, then the shifting landscapes are Ali’s metaphorical envisioning of the landscapes forgetting. And despite Ali’s insistence on discovering evanescence and forgetting the pain, he seems to regret that the environment would want to do the same. This is evident when Ali sees that the desert has forgotten despite his longing for a forgotten love. He also notes that the saguaros have also forgotten. This prompts Ali, at the end of “Snow on the Desert,” to take the time to remember. “Time to think of everything the earth / and I had lost, of all / that I would lose, / of all that I was losing” (105). Ali is coming to terms with loss, both his and the loss of other people’s memories. It would seem that Ali’s Nostalgist’s Map of America is Ali’s method of remembering all of the people that he has lost, capturing them in the landscapes, before his own memory begins to forget. 
+
+Perhaps the rays of the past on the frost has compelled Ali’s poetry, hurting his own memory and prompted his writing a “map” of his memories. As one can learn simply by looking through the maps at the Harvard Map Collection, maps are far from objective depictions of the world. More often than not, a map is a reflection of an artist’s belief of the world around them, frozen in time. In Ali’s case, because his memories are tied to the landscapes around him, creating this map is Ali’s method of remembering the world around him. After all, memories shift, with or without one’s permission, and physically embodying one’s memories may be the only way to truly remember. 
+
+## Works Cited
+
+1. Ali, Agha Shahid. A Nostalgist's Map of America. N.p.: n.p., 1998. Print.

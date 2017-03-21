@@ -2,8 +2,8 @@
 layout: default
 title:  "2014 Fall Animation Short"
 date:   2014-04-20
-extfooter: 
-  /files/Into_the_Past.mp4: MP4 File (4mb)
+intfooter:
+   files/Into_the_Past.mp4: MP4 File (4mb)
 
 type:   Project
 categories: animation time

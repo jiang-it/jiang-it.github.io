@@ -45,7 +45,10 @@
 	  </footer>
     </div>
 	
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>	
-  
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    {% if page.latex %}
+        <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+
   </body>
 </html>

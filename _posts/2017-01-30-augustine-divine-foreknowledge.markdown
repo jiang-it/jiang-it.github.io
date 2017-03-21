@@ -1,0 +1,33 @@
+---
+layout: default
+title:  "Augustine and Divine Foreknowledge"
+date:   2017-01-30
+
+type:   Writing 
+categories: philosophy augustine
+---
+Excerpt
+
+## Prompt 
+
+In “On Free Choice of Will,” Augustine articulates the following challenge:
+
+How is it that these two propositions are not contradictory and inconsistent: (1) God has foreknowledge of everything in the future; and (2) We sin by the will, not by necessity? (74)
+
+Explain what the prima facie difficulty is here, and then briefly explain one possible response to it (which might be – but doesn’t have to be – Augustine’s own). 
+
+## Augustine and Divine Foreknowledge
+
+In Book Three of On Free Choice of the Will, Augustine lays out his theodicy, arguing that God is not responsible for the existence of evil. Augustine addresses a conundrum, whereby God’s omniscience makes him culpable in mankind’s sins. The argument goes: if God gave humans free will, and humans used free will to commit sin and evil, and God knew that this would happen, then God is responsible for evil. However, Augustine makes a series of subtle arguments in order to resolve this dilemma. There are two parts. First, that God is not responsible for any actions humans take under their own free will. <span data-balloon="Chaney: This paragraph presents an interesting argument for the conclusion that God is responsible for evil. However, for the purposes of this assignment, you could have omitted it. This is because the assignment only asks you to state what Augustine sees as the tension between divine foreknowledge and our freedom to sin. It seems you mention that tension in the final two sentences, but you could have said more about in the opening paragraph. Why does there seem to be a tension? Although the argument that God is responsible for evil is related to all of this, it's not absolutely essential to the presentation of the problem of divine foreknowledge." data-balloon-length="xlarge">Second, that God’s foreknowledge does not affect this first statement.</span>
+
+Augustine argues that God is not responsible for any actions humans take as a result of their own free will. To illustrate, Augustine contrasts a person’s choice to sin to a rock’s will to fall. The latter is necessary; the former is not. Compare someone picking up a rock off the ground and letting it go to God giving humans free will and letting them go. The person is responsible for lifting the rock off the ground. God is responsible for giving humans free will. The rock falls out of necessity—it is a direct result of physical laws. However, in the second scenario, the human does not sin out of necessity as free will does not necessarily lead to sin. A human’s actions are not determined by a physical law, but rather they are being driven by free will. <span data-balloon="Chaney: You do a good job of pointing out the differences between the rock falling of necessity and free will, which does not sin of necessity. However, as in the first paragraph, here you don't really address the specific issue the prompt asks about, which is what the tension between free will and divine foreknowledge is, and how it might be resolved. I gather that you're getting there, you're building up to discussing the tension. But since you need to (i) state which propositions seem contradictory; (ii) explain why they seem to be that way; and (iii) suggest a way of dealing with the problem, it's crucial to hit the ground running without much preliminary or background argument.
+" data-balloon-length="xlarge">Thus, Augustine claims that free will does not implicate God.</span>
+
+Next, Augustine addresses whether God’s foreknowledge affects the previous argument.  Augustine argues that God’s foreknowledge does not affect free will nor does it cause sinning to become necessary. He offers the following line of reasoning: if you know beforehand that someone is going to act in a particular way in the future, your foreknowledge does not force that person to act in that particular way. Or, using the previous analogy of dropping a rock, it does not matter whether you know or do not know the outcome of dropping the rock, the rock’s behavior is determinate. Similarly, it does not matter whether God knows or does not know whether someone is going to sin. <span data-balloon="Chaney: You do well to identify a line of reasoning that Augustine deploys. He talks about how a person's foreknowledge that someone will do something doesn't &quot;force&quot; that person to do that thing. But this paragraph, and the final paragraph, are merely interpretive. At least, that's the way it seems to me, the reader. The second part of the prompt requires you to suggest how the tension between divine foreknowledge and free will can seem to be eased or overcome. Perhaps you think Augustine's own solution works. But in that case, it wasn't clear to me that you were arguing for Augustine's own solution. It seems that you're just offering it as the correct interpretation of the text." data-balloon-length="xlarge">Because the sin is a result of free will, God is not the cause of the sin.</span>
+
+Thus, Augustine concludes that there is no contradiction. God can have given humans free will. Humans can sin as a result of having free will. God can know that humans will sin as a result of having free will. Yet, God does not have to be responsible for humans sinning because the responsibility lies in human’s usage of free will. 
+
+## Chaney's Feedback
+
+1. Significant portions of the paper are not absolutely necessary for the presentation of the tension between divine foreknowledge and free will, and thus are somewhat distracting. The first couple paragraphs read somewhat like preliminaries to the key issue. In the future, try to get to the point right away, without so much background discussion.
+2. You don’t seem to offer a reason why we might think the tension can be overcome. Instead, you interpret Augustine’s attempted solution. But the second part of the prompt was to give an argument for why the tension might be overcome. If you think Augustine’s solution works, that’s fine. But you would still need to argue that it’s a good solution, rather than simply state what it is. In the future, if a prompt asks for a philosophical argument for a certain proposition, make sure to not just give an interpretation of what another philosopher said about the matter. (A related point is that you should also try, when possible, to offer your own solutions to philosophical puzzles, either based off of what you hear in class or we discuss in section. The prompt did not require you to do that, but thinking on your own about philosophical problems does help one become more philosophically sophisticated.)

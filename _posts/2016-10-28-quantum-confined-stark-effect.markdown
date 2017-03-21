@@ -6,7 +6,7 @@ date:   2016-10-28
 type:   Project
 categories: quantum-mechanics
 intfooter: 
-  /assets/quantum-wells/Paper.pdf: PDF Version (700 KB)
+  assets/quantum-wells/Paper.pdf: PDF Version (700 KB)
 ---
 Excerpt: For this project, we use the particle in a box model to model GaAs/AlGaAs quantum wells and the quantum-confined Stark Effect. We simulate this model in MATLAB and compare our results against experimental data.
 
