@@ -6,7 +6,7 @@ date: 2017-02-24
 type: Writing
 categories: shakespeare othello
 ---
-For Shakespeare: The Later Plays, we were asked to write an essay about one of the three plays we had read up to that point, Measure for Measure, Othello, or King Lear. (We would later read Macbeth before spring break). In these three plays, the action is driven by a handful of characters set out to deceive the others. In this essay, I try to examine the structure of Iago's stories in hopes to drawing some conclusions more broadly of "good storytelling". Personally, I find discussion about how stories are structured to be a fun exercise. For instance, Dan Harmon's Story Structure is an interesting lens to deconstruct stories through. Sometimes it doesn't work, but it's a method of unconvering what makes a story work or not work. 
+An essay written for Shakespeare, The Later Plays about the structure of Iago's lies and fictions in Othello. I compare the structure of Iago's fictions to <span data-balloon="Thomas: I agree: this feels more quirky than insightful">proofs by contradiction</span>, and muse about possible takeaways that would apply to fiction more <span data-balloon="Thomas: I'm not sure I said anything insightful">broadly</span>.
 
 ## Prompt
 

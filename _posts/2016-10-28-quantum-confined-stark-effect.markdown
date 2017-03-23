@@ -8,7 +8,12 @@ categories: quantum-mechanics
 intfooter: 
   assets/quantum-wells/Paper.pdf: PDF Version (700 KB)
 ---
-Excerpt: For this project, we use the particle in a box model to model GaAs/AlGaAs quantum wells and the quantum-confined Stark Effect. We simulate this model in MATLAB and compare our results against experimental data.
+The final project I did for PS10: Quantum and Statistical Foundations of Chemistry where I attempt to simulate quantum wells in semiconductors and compare the results to experimental results.
+
+I really enjoyed this class and thought the material that the class covered was very interesting, even if not the most practically useful in everyday life. In particular, the teaching team for the class was very good. I would also highly recommend both textbooks that the class used because they are well written and meant for people that are not thinking about chemistry on a day to day basis, like myself.
+While this project mostly concerned the quantum aspect of the class, perhaps the part of the class that I found to be the most incredible was the statistical aspect. Casting the world as a random world, rather than a deterministic world, proves to be a very insightful model that I find to be elegant and satisfying. 
+
+Though the project itself does not produce new or novel results, it was a good learning experience for me to do. It let me learn more about semiconductors, something my dad studied and worked on, so it proved to be rewarding beyond the class itself.
 
 ## Quantum Wells and the Quantum-Confined Stark Effect
 

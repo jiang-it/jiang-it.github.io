@@ -6,8 +6,9 @@ date:   2016-04-25
 type:   Writing
 categories: election asian-american kasich
 ---
-Short excerpt here
+A fictitious memo written for The Road to the White House, a class about the 2016 election and the general American presidential elections. I wrote the memo to John Kasich on methods to encourage Asian American youth to turn out. 
 
+Despite writing about voter turnout techniques, I was not completely convinced that there was a good way to increase voter turnout, even selecting for a specific demographic of voters. Amusingly, despite this being an assignment, the course did much more to convince me that most electoral methods were ineffective at changing the outcome of an election, despite all of the talking head commentary displayed on network television. 
 ## Prompt
 
 Writing a memo to the individual you expect to be the 2016 Democrat or Republican nominee for the presidency of the United States. Your memo should offer advice as to the specific strategy that your candidate needs to pursue to attract and win the youth vote (18-29 year olds) in the general election.

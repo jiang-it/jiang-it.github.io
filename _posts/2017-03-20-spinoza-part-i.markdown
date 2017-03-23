@@ -6,7 +6,7 @@ date:   2017-03-20
 type:   Writing 
 categories: philosophy religion spinoza
 ---
-Excerpt
+A short essay written for Saints, Heretics, and Atheists: An Historical Introduction to the Philosophy of Religion. The essay summarizes the first of three points made by Spinoza in the appendix to Chapter 1 of the Ethics.
 
 ## Prompt
 
