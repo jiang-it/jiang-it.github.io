@@ -15,7 +15,11 @@ categories: card-game no-thanks
 ---
 An online multiplayer version of No Thanks!, the award winning card/board game invented by [Thorsten Gimmler](https://boardgamegeek.com/boardgamedesigner/85/thorsten-gimmler) and published by [Amigo Spiele](https://en.wikipedia.org/wiki/Amigo_Spiele). Written in javascript. Powered by [Node.js](https://nodejs.org/en/), [Socket.io](https://socket.io/), and [Phaser.io](https://phaser.io/). Hosted on [Heroku](https://www.heroku.com/).
 
-## [No Thanks! Demo](https://evening-river-12851.herokuapp.com/) (Not suitable for all screen sizes)
+## [No Thanks! Demo](https://evening-river-12851.herokuapp.com/)
+
+<center>
+<iframe src="https://evening-river-12851.herokuapp.com/" width="640" height="400"></iframe>
+</center>
 
 I spent a couple weekends working on this project and it's to the point where it has reached minimal viable product at the time. I did this project as a way to learn more about these technologies and have some practice in writing games. Not only do I think No Thanks! is an excellent, elegant game, but it also proves to be a pretty simple one to implement (in part because it is so elegant). While the project in its current state is not error free and the code is definitely quite shoddy, it is playable. 
 
