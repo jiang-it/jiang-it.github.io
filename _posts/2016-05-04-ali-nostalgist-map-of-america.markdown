@@ -6,7 +6,9 @@ date:   2016-05-04
 type:   Writing 
 categories: asian-american ali 
 ---
-Excerpt
+One of three essays written for the final for Asian American Literature where I draw some connection between poems in Ali's collection, A Nostalgia's Map of America. 
+
+Poetry is not something I am comfortable reading or analyzing. I do not necessarily enjoy reading poetry in part because I have a difficult time understanding it. Something that has helped me read poetry is trying to write it, but that too is difficult without a prior appreciation for the medium. Attempting to bootstrap poetry enjoyment is something that I have had a hard time doing. That being said, I do think that over time I have grown to appreciate how difficult and how pleasant some of the formulations of language poetry has captured.
 
 ## Prompt
 

@@ -6,7 +6,9 @@ date:   2016-05-04
 type:   Writing
 categories: asian-american phan hagedorn
 ---
-Excerpt
+One of three essays written for the final for Asian American Literature where I compare Hagedorn's Dogeaters and Phan's We Should Never Meet.
+
+Dogeaters and We Should Never Meet have untraditional narrative structure. Dogeaters was a book that I did not particularly enjoy reading, but have a difficult time expressing a reason why I did not enjoy the book. <span data-balloon="Thomas: To be fair, I only skimmed the book both times." data-balloon-length="xlarge">When reading it a second time when writing the final</span>, I found myself growing more appreciative of the novel. On the other hand, We Should Never Meet was a short story that I really enjoyed reading, though it was emotional enough that I would likely not willingly subject myself to the emotional rollercoaster <span data-balloon="Thomas: But would recommend">again</span>. 
 
 ## Prompt
 

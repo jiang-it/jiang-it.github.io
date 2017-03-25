@@ -6,7 +6,7 @@ date:   2015-09-27
 type:   Writing 
 categories: money-markets-morals pprice-gouging
 ---
-Excerpt
+The first of four essays written for Money, Markets, and Morals where I argue that arguments in favor of price gouging rely on some assumptions about market forces that may not be valid during times of crisis.
 
 ## Prompt
 

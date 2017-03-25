@@ -6,7 +6,10 @@ date:   2016-05-04
 type:   Writing
 categories: asian-american aiiieeeee nam-le
 ---
-Excerpt
+One of three essays written for the final for Asian American Literature where I write about how the editor's of Aiiieeeee might view the comments a characters makes in Le's short story Love and Honor and Pity and Pride and Compassion and Sacrifice. 
+
+Out of the short stories we read for the class, I think Nam Le's might have been some of my favorite because of how different I felt they were. This essay also discusses some of the other topics we talked about in class besides the actual content of the literature themselves. Asian American literature is a poorly defined category of literature and there is a consistent discussion about what qualifies as Asian American literature and why it matters in social, cultural contexts. This essays touches a little about how and why that matters.
+
 
 ## Prompt
 

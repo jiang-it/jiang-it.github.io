@@ -4,9 +4,9 @@ title:  "Comparing Story Ownership in Bulosan and Phan"
 date:   2016-04-15
 
 type:   Writing
-categories: literature comparative asian-american
+categories: asian-american literature comparative
 ---
-Short excerpt about this piece.
+An essay I wrote for Asian American Literature where I compare Bulosan's short story How My Stories Were Written and Phan's Emancipation. Both short stories discuss storytelling and stories. I examine the idea of story ownership with Bulosan's ideas about story ownership in mind. 
 
 ## Prompt
 

@@ -6,7 +6,7 @@ date:   2015-11-08
 type:   Writing
 categories: money-markets-morals aristotle
 ---
-Excerpt
+One of four essays written for Money, Markets, and Morals where I argue that, by combining the writings of Aristotle and Downs, one can make an argument for demoncracy being the best or least bad form of government.
 
 ## Prompt
 

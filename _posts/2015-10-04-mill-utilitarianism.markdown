@@ -6,7 +6,7 @@ date:   2015-10-04
 type:   Writing
 categories: money-markets-morals utilitarianism
 ---
-Excerpt
+One of four essays written for Money, Markets, and Morals where I argue that Mill's version of utilitarianism strays too far from the roots of utilitarianism and relies on some hierarchy of good that utilitarianism cannot defend from its first principles. 
 
 ## Prompt
 

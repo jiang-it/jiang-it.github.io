@@ -10,7 +10,7 @@ latex:  True
 type:   Project
 categories: expert-systems datalog
 ---
-The final project report Kevin and I wrote for CS252r, a class on static and dynamic program analysis. The attempts to determine the optimal series of questions to ask a user. 
+The final project report Kevin and I wrote for CS252r, a class on static and dynamic program analysis. The project attempts to determine the optimal series of questions to ask a user. 
 
 I took this course as a follow up to  the introductory classes on programming languages, which I enjoyed. As with many classes, I was unable to dedicate an appropriate amount of time to the class and it shows in the project and the report. On the other hand, the experience of taking it was very helpful. It allowed me to get a sense of what computer science research might look like if I were to go to graduate school and it gave me some greater insight into programming language tools and techniques. Most importantly, I learned that I am not yet mature enough for research and graduate school. 
 

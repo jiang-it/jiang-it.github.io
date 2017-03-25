@@ -3,7 +3,11 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ page.title }}</title>
+    {% if page.title %}
+      <title>{{ page.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico?">
@@ -19,6 +23,7 @@
           <h3><a href="/about">About Me</a></h3>
           <h3><a href="/projects">Projects</a></h3>
           <h3><a href="/writings">Writings</a></h3>
+          <h3><a href="/notes">Notes</a></h3>
       </header>
 
       <section>

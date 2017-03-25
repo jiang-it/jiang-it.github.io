@@ -6,7 +6,7 @@ date:   2013-11-12
 type:   Writing
 categories: morality identity 
 ---
-Excerpt
+The second essay I wrote for Building Just Institutions.
 
 ## Prompt
 

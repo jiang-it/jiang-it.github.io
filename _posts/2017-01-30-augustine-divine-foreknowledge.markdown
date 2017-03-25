@@ -6,7 +6,9 @@ date:   2017-01-30
 type:   Writing 
 categories: philosophy augustine
 ---
-Excerpt
+A short essay written for Saints, Heretics, and Atheists: An Historical Introduction to the Philosophy of Religion. The essay that attempts to explain Augustine's reconciliation of God's Divine Foreknowledge and Human Free Will. 
+
+Unfortunately, as noted by the feedback Chaney left, I <span data-balloon="Thomas: and still don't">did not</span> have a good understanding of Augustine's writing and position. It appears, based on reading some other people's thoughts of Augustine, that Augustine does not believe in "libertarian" free will, but another form of free will. Thus, the analysis I provide is rooted in a misunderstanding of Augustine as should not be taken as an accurate representation of Augustine's views.
 
 ## Prompt 
 

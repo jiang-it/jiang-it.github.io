@@ -1,12 +1,12 @@
 ---
 layout: default
-title:  "Expos 20 Essay 1"
+title:  "Causal Complexity of Risk"
 date:   2014-03-05
 
 type:   Writing
 categories: risk psychology
 ---
-Excerpt
+The first essay I wrote for On Risk and Reason. 
 
 ## Prompt
 

@@ -6,7 +6,7 @@ date:   2013-10-20
 type:   Writing
 categories: morality
 ---
-Excerpt
+The first essay I wrote for Building Just Institutions. 
 
 ## Prompt
 

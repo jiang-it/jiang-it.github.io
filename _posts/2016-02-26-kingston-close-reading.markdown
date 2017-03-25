@@ -6,7 +6,9 @@ date:   2016-02-26
 type:   Writing
 categories: asian-american literature close-reading
 ---
-Short excerpt of this here
+An close reading essay I wrote for Asian American Literature on Kingston's No Name Woman. 
+
+Although I did the assignment, I still am not confident in my ability to analyze literature closely. For this assignment, rather than perform a close reading, I relied on the gimmick of finding a small detail and extending it beyond what I believe the author's intention to actually be. While I feel that the argument is clever, I do not feel that the conclusion is convincing nor do I believe it to be true. It was, however, entertaining to write.
 
 ## Prompt
 

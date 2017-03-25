@@ -6,7 +6,7 @@ date:   2013-12-15
 type:   Writing
 categories: morality teach-for-america
 ---
-Excerpt
+The final essay for Building Just Institutions.
 
 ## Prompt
 

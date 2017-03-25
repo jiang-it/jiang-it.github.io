@@ -6,7 +6,7 @@ date:   2014-10-14
 type:   Writing
 categories: iliad odyssey
 ---
-Excerpt
+The first essay for Epic: From Homer to Star Wars where I compare the Iliad and the Odyssey's treatment of heroism in the characters of Achilles and Odysseus. 
 
 ## Prompt 
 

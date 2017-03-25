@@ -1,12 +1,14 @@
 ---
 layout: default
-title:  "Expos 20 Essay 2"
+title:  "The Difficulty of Changing Prior Beliefs"
 date:   2014-03-05
 
 type:   Writing
 categories: risk psychology
 ---
-Excerpt
+An essay I wrote for On Risk and Reason about prior belief and the difficulty of changing prior belief. 
+
+I feel like this essay does not make claims that are verified by reality. Instead, this essay offers more of a way of post hoc reasoning rather than an explanation of the self fulfilling nature of prior belief. 
 
 ## Prompt
 

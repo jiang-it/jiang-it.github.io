@@ -6,7 +6,7 @@ date:   2015-12-09
 type:   Writing
 categories: money-markets-morals kant bentham mill
 ---
-Excerpt: Final 1
+One of the final exam essays I wrote for Money, Markets, and Morals on Kant, Aristotle, and Bentham. The essay concerns the differences between utilitarianism and Kantianism, which are irreconcilable due to a fundamental difference in approaching morality. 
 
 ## Prompt
 

@@ -6,9 +6,11 @@ date:   2015-11-01
 type:   Writing
 categories: money-markets-morals vote-selling
 ---
-Excerpt
+One of four essays written for  Money, Markets, and Morals where I argue that sellling votes may actually be argued against on utilitarian grounds, despite economic arguments in favor of the practice. 
 
 ## Prompt
+
+Is it always wrong to buy or sell votes? If it is wrong to pay people to vote a certain way, is it also wrong to pay them to vote (however they cast their ballot) or not to vote? Is there a distinction between buying votes and making campaign promises that give voters an economic incentive to vote a certain way? What, if anything, is the difference between selling one’s vote and voting according to one’s economic interest?
 
 ## Make America Great Again: Donald Trump for President, 2016: A Utilitarian Perspective on Vote Markets in Democracies
 

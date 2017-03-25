@@ -6,7 +6,7 @@ date:   2015-12-09
 type:   Writing 
 categories: money-markets-morals environmental-ethics
 ---
-Excerpt: Final 2
+One of the final exam essays I wrote for Money, Markets, and Morals on the morality of carbon offsets. Professor Sandel is unlikely to believe that carbon offsets are a morally appropriate mechanism whereas utilitarians might see it as an efficient and effective solution to address global warming. 
 
 ## Prompt
 

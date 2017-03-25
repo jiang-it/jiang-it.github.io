@@ -6,7 +6,7 @@ date:   2014-11-23
 type:   Writing 
 categories: paradise-lost aenied
 ---
-Excerpt
+An essay written for Epic: From Homer to Star Wars on Milton's Paradise Lost where I examine the character of Satan and his portrayal as an antihero. As part of the epic tradition, Paradise Lost draws from and acknowledges its relationship to the Aeneid and previous works and those relationships are examined in the essay.
 
 ## Prompt
 
