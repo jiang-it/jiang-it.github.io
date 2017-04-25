@@ -8,7 +8,7 @@ extfooter:
   http://us.battle.net/wow/en/media/artwork/trading-card-game/series2?page=1 : Many thanks to various sources for card art (links in card titles)
 
 type:   Project
-categories: hearthstone-mission advisor-melandrus
+categories: hearthstone advisor-melandrus
 ---
 
 A single player Mission I created for Hearthstone based on the [Advisor Melandrus encounter from World of Warcraft](http://wow.gamepedia.com/Advisor_Melandrus). 
