@@ -13,7 +13,7 @@ I played Hunter from rank 5 to legend. This was because of a lot of reasons. I d
 On the day I made the final push to legend, I checked the live stats reported by <a href="http://www.vicioussyndicate.com/data-reaper-live-beta/">Data Reaper</a>. It showed that the top classes being played were Paladin, Warrior (both pirate and taunt), Rogue, Hunter, and Mage. I knew that the Rogue matchup was in my favor. Given DisguisedToast's success, I figured that I could tech a Hunter against the other matchups to swing them in my favor. I came up with the following list, partly inspired by DisguisedToast and partly inspired by <a href="https://disguisedtoast.com/decklists/2453-nishikun-s-legend-rank-7-midrange-Hunter">Nishikun's list</a>. 
 
 <center>
-<img src="{{ site.baseurl }}/assets/hearthstone/hateHunter-4-25-017.png" title="Hate Hunter" width="200" />
+<img src="{{ site.baseurl }}/assets/hearthstone/hatehunter-4-25-017.PNG" title="Hate Hunter" width="200" />
 </center>
 
 I call it Hate Hunter because of all the hate cards it runs. 2 Hungry Crabs and Tol'vir Warden to tech against the Paladin matchup. 2 Golakka Crawlers to tech against the pirate Warrior matchup. Stampeding Kodo and Deadly Shot to tech against the taunt Warrior matchup and kill any Finja's. I figured with this suite of tech cards, I would be able to be slightly favored in each of these matchups, which should be enough to push me over if I draw well. And it certainly did help. 
