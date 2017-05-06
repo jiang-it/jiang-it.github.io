@@ -3,7 +3,7 @@ layout: default
 title:  "Telling Stories Animations"
 date:   2017-04-08
 
-type:   Note
+type:   Note 
 categories: animation screening
 ---
 A selection of animations from today's animation screening about Telling Stories.
