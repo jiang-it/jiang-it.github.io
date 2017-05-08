@@ -4,7 +4,7 @@ title:  "Altered States and Inner Space Animations"
 date:   2017-03-24
 
 type:   Note
-categories: animation recommendation
+categories: animation screening
 ---
 A selection of animations from today's animation screening about altered states and inner space.
 
@@ -25,3 +25,27 @@ I loved the idea of this animation and it is executed absolutely beautifully. Ru
 ### Oozat by Darren Walsh (1992) United Kingdom 6m
 
 Unfortunately, I cannot find the animation posted online by the artist. However, his film Angry Kid also uses the same mask pixilation technique, which I found to be incredibly compelling. 
+
+## Rest of Program
+
+The Comb by The Quay Brothers (1991) UK 18m
+
+Buzzbox by David Daniel (1985) US
+
+Nuggets by Andreas Hykade (2014) Germany 5m
+
+A Letter to Colleen by Andy and Carolyn London (2007) 8m30s
+
+Hi Stranger by Kirsten Lepore (2016)
+
+Make me Psychic by Sally Cruikshank (1978) USA 8m30s
+
+Master Blaster by Sawako Kabuki (2014) Japan 4m
+
+In a Pig's Eye by Atsushi Wada (2010) Japan 10m
+
+La Course a l'abime by George Schwizgebel (1992) 4m
+
+In Inertia by Takuto Katayama ()
+
+The Mechanism of Spring by Atsushi Wada () Japan
