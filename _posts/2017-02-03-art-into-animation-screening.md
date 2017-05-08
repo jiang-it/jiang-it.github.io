@@ -47,7 +47,7 @@ La Pista  by Gianluca Toccofondo (1993) 2m
 
 Pinochio by Gianluca Toccofondo (1999) 5m
 
-When The Day Breaks by Wendy Tilby Amanda Forbis (1999) 10m
+When The Day Breaks by Wendy Tilby and Amanda Forbis (1999) 10m
 
 ## Collage
 
