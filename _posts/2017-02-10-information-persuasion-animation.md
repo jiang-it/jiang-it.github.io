@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Information and Persuasion Animations"
+title:  "Information and Persuasion Animation Screening"
 date:   2017-02-10
 
 type:   Note
