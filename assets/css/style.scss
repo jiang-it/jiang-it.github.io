@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 body {
     font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #4c4c4c;
 }
 
 .wrapper {
@@ -22,6 +23,14 @@ header a:link, header a:visited {
 header a:active, header a:hover {
     color: #616161;
 } 
+
+a, a:visited {
+    color: #0073c7;
+}
+
+a:hover {
+    color: #005077;
+}
 
 section {
     width: 700px;
