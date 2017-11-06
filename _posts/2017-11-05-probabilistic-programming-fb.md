@@ -6,7 +6,7 @@ date:   2017-10-05
 type:  Note
 categories: facebook probabilistic programming
 ---
-If I had known that, were I to return Facebook, that I would be working on the same project as I had during my internship, I would be working at Microsoft.
+If I had known at the end of my internship that, were I to return Facebook, that I would be working on the same project as I had during my internship, I would be working at Microsoft.
 
 Yet, here I am, the newest member of the probabilistic programming language team at Facebook. My decision to join was not easily made – there were other teams that I would have been thrilled to join – and it certainly did not help that the team’s project is risky and success, uncertain. 
 
