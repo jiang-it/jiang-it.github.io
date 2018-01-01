@@ -42,6 +42,7 @@
       </section>
 	  
 	  <footer>
+              <div><small>{{ page.footer }}</small></div>
         {% for link in page.intfooter %}
             <div><small><a href="{{ site.baseurl }}/{{ link[0] }}">{{ link[1] }}</a></small></div>
         {% endfor %}

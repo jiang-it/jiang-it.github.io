@@ -5,6 +5,15 @@ date:   2017-12-31
 
 type:   Note
 categories: 2017 in review
+
+footer: Things I thought about when writing this
+
+extfooter: 
+  https://www.theatlantic.com/education/archive/2014/08/qa-the-miseducation-of-our-college-elite/377524/ : Excellent Sheep
+  https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance : Grit
+  https://www.youtube.com/watch?v=Vt9vl8iAN5Q : RWBY "White" Trailer
+  https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf : CV of Failures
+
 ---
 
 As the year comes to an end, so too does Facebook’s PSC (Performance Summary Cycle), a biannual review process where you evaluate yourself and others at the company for their impact on the company. Unfortunately for me, all signs point to my project being a resounding failure. While the formal self-review I will submit will discuss the details, I just wanted to dwell for a moment on my failure a bit more abstractly-a bit more emotionally. 
