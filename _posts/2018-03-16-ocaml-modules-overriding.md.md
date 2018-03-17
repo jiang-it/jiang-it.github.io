@@ -9,7 +9,7 @@ extfooter:
   http://gallium.inria.fr/blog/overriding-submodules/ : Related, but slightly more convoluted of a module overriding situation
 ---
 
-I was recently tasked at work to functorize part of the Hack ecosystem and I ran into a learning opportunity regarding extending and overriding modules in OCaml. After a nontrivial amount of time, I found something that, in hindsight, should have been relatively straightforward. Because it was not, I've decided just to make a note of the problem and the route I took to find the solution. 
+I was recently tasked at work to functorize part of the Hack ecosystem and I ran into a learning opportunity regarding extending and overriding modules in OCaml. Unfortunately, I was unable to find the solution through a google search, perhaps in part because I do not know what to enter as search terms. After a nontrivial amount of time, I found something that, in hindsight, should have been relatively straightforward. Because it was not, I've decided just to make a note of the problem and the route I took to find the solution. 
 
 The problem arose trying to functorize a particular component of the Hack pipeline. Hack has four different notions of the Hack syntax that one might conceptualize like nesting dolls, where each one contains the former but has some extra information. For instance, we have a minimal version of the syntax and we also a positioned version of the system, which is mostly the same as the minimal verison of the syntax except it contains information about the original file position of each of the tokens of the syntax. Each of these implement the same module signature. 
 
