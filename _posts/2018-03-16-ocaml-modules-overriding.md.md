@@ -11,7 +11,7 @@ extfooter:
 
 I was recently tasked at work to functorize part of the Hack ecosystem and I ran into a learning opportunity regarding extending and overriding modules in OCaml. Unfortunately, I was unable to find the solution through a google search, perhaps in part because I do not know what to enter as search terms. After a nontrivial amount of time, I found something that, in hindsight, should have been relatively straightforward. Because it was not, I've decided just to make a note of the problem and the route I took to find the solution. 
 
-The problem arose trying to functorize a particular component of the Hack pipeline. Hack has four different notions of the Hack syntax that one might conceptualize like nesting dolls, where each one contains the former but has some extra information. For instance, we have a minimal version of the syntax and we also a positioned version of the system, which is mostly the same as the minimal verison of the syntax except it contains information about the original file position of each of the tokens of the syntax. Each of these implement the same module signature. 
+The problem arose trying to functorize a particular component of the Hack pipeline. Hack has four different notions of the Hack syntax that one might conceptualize like nesting dolls, where each one contains the former but has some extra information. For instance, we have a minimal version of the syntax and we also a positioned version of the system, which is mostly the same as the minimal version of the syntax except it contains information about the original file position of each of the tokens of the syntax. Each of these implement the same module signature. 
 
 {% highlight ocaml %}
 module type Syntax_signature = sig
@@ -40,7 +40,7 @@ module type Positioned_syntax_signature = sig
 end
 {% endhighlight %}
 
-This was all fine and dandy until I realized that my new functor that would operate over syntax modules with the Positioned_syntax_signature signature also needed to use a more specific version of the Token submodule. It turns out that theHack ecosystem also has four different corresponding notions of the token module. And I needed to use the token modules that contained position information. So I needed to create a corresponding Positioned_token_signature interface, which I did without much trouble. What I needed to do was somehow override the included Token module from Syntax_signature to be Positioned_token_signature. So I tried the following:
+This was all fine and dandy until I realized that my new functor that would operate over syntax modules with the Positioned_syntax_signature signature also needed to use a more specific version of the Token submodule. It turns out that the Hack ecosystem also has four different corresponding notions of the token module. And I needed to use the token modules that contained position information. So I needed to create a corresponding Positioned_token_signature interface, which I did without much trouble. What I needed to do was somehow override the included Token module from Syntax_signature to be Positioned_token_signature. So I tried the following:
 
 {% highlight ocaml %}
 module type Positioned_syntax_signature = sig
