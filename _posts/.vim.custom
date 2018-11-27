@@ -1,0 +1,18 @@
+"Note: Comments in vimrc do not have closing quote
+
+"Set tabs to 4 spaces
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+"Set up display wrapping with nicer navigation options
+set wrap
+set linebreak
+set columns=60
+nnoremap j gj
+nnoremap k gk
+nnoremap dd g^dg$g^
+
+"Set up spellcheck
+set spelllang=en
+set spell

@@ -1,6 +1,3 @@
-*~
-<<<<<<< HEAD
-
 # LaTEX Build Files #
 #####################
 *.aux
@@ -11,5 +8,7 @@
 # Jekyll files #
 ################
 _site
-=======
->>>>>>> parent of 2893a63... Update resume
+
+# vim configuration files #
+###########################
+.vim.custom
