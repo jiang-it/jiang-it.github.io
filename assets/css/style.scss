@@ -24,7 +24,7 @@ header a:active, header a:hover {
     color: #616161;
 } 
 
-a, a:visited {
+a:visited {
     color: #0073c7;
 }
 
@@ -32,7 +32,7 @@ a:hover {
     color: #005077;
 }
 
-a {
+a, a:link, a:hover, a:visited, a:active {
     font-weight: inherit;
 }
 
