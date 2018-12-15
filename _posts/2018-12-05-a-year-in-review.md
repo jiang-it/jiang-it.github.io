@@ -45,7 +45,7 @@ _The Subtle Art of Not Giving a FUck_ was not the only self help book I read thi
 
 If it isn't clear, I adore my friends and the people around me. I can often come off as a misanthrope-a problem I'd like to resolve-but I do deeply internalize the people around me. The actions of people around me have an outsized impact on my life-a trait that I acknowledge. My high school salutatorian speech centered entirely around that theme. I physically recoil when when I hear myself and the speech is not as good as I remember in my head, but I've included it here anyway. 
 
-<audio tag hype></audio>
+<audio controls="controls" src="www.thomasjiang.com/files/graudationspeech.mp3"/>Browser does not support the audio element</audio>
 
 Besides the self help books, Patrick Rothfuss's _The Slow Regard of Silent Things_ was another book for which I could not form substantive thoughts. Looking back at the notes I wrote for it in June, I find that I wrote some of the following fragments: "voyeuristic instincts", "pandas don't know how to have sex", "asian american admissions". I have the vague notion that these notes all made sense together at one point.
 
