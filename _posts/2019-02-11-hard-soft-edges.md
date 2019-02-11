@@ -1,0 +1,21 @@
+---
+layout: default
+title:  "Hard Edges"
+date:   2019-02-11
+
+type:   Note
+categories: Two Income Trap
+---
+
+"It's the economy, stupid." Before reading _The Two-Income Trap_, Elizabeth Warren's 2003 book about bankruptcy in the United States middle class, I had no understanding of what the "economy" means in the famous campaign slogan. The only economics course I took was in high school, and while it was taught beyond reproach, the course was only designed to convey the basic mechanics of economics - supply / demand curves, the definitions of terms in monetary policy. Not only did Warren's book help me understand what the economy looks like for others, it gave me invaluable perspective on how little I actually understand the "economy" and how much time it would take to understand it. 
+
+Part of the perspective that the books offers is the idea that the competition to stay in the middle class has gotten fiercer and more competitive. At the same time (and correlated with the increased competition), the landscape on which this economic battle is taking place has shifted rapidly - the edges have gotten sharper. It is this latter idea that I want to explore a bit further. Hard and soft edges. I often think about this metaphor and I think it makes for a very simple mental model to use to attempt to understand differences in categorically similar entities.
+
+I got the phrase from someone's description of the differences between StarCraft: Brood War and StarCraft II, two video games that are very dear to my heart. The older game, Brood War, was described to have many hard edges. These were elements of the game that, not understood properly or not sufficiently addressed, would lead to immediate and disastrous consequences. For instance, not understand that the forge, when placed above a gateway, had different properties than when placed below a gateway, despite there being no signal that this was the case, could and would lead to immediate loses. In StarCraft II, this is no longer the case and the properties of the buildings are as stated on the box. This concept applies to many games, especially those with sequels. Super Smash Brothers Melee is a game with more hard edges than Super Smash Brothers Ultimate. Dark Souls vs. Dark Souls 3.
+
+But as I was explaining this analogy to a manager in my org, he made the comparison to cars, old and new. Modern cars have fewer hard edges compared to vintage cars, or so I am told. As my day job relates to programming languages, I made the comparison to programming languages. C has often been a language described as giving you enough rope to hang yourself with. Scratch, on the other hand, is a language that we give young children to guide them into understanding loops and variables. 
+
+In all of these cases, hard and soft edges speaks to one aspect of these matters, namely the difference of experience. I do not think that it determines whether one is better than another. Even though both (whether something is better and whether one experience is different) are subjective opinions, I think hard and soft edges describes something a bit more objective than whether one is better than the other. This is why I like using this conceptual tool. It helps bring my personal subjective experience (this game is harder) away from the fully subjective opinion realm and tie it to objective qualities (there are differences in building placement that do not exist in the second game). 
+
+This concept is something that I think _The Two-Income Trap_ does very well, even if it does not explicitly use those terms. After reading the book, I am left with a sense that the modern economy has been transformed into an economy with more hard edges where the previous economy had more soft edges. This translates into an experience, that, though many Americans face, is one that I did not fully understand. Though I am convinced that it would be a boon in American happiness and long term political stability to move towards an economy with more soft edges, the book did not convince me that the policies that Warren lays out are sufficient or will achieve the desired results. After all, understanding the hard edges of the world, which the book has helped me do, still seems a long ways away from saying what to do to change them. 
+
