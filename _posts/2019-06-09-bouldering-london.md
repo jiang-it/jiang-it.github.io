@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Bouldering in London"
-date:   2019-03-31
+date:   2019-06-09
 
 type:   Note
 categories: a list of categories
@@ -17,7 +17,7 @@ Made up of three relatively small sections. They have some routes with wooden ho
 
 The gym with the best reputation around London and for good reason. It's a super interesting gym - built in an old pumping station that looks like a castle. You can top rope inside the castle turrets and get lost in the narrow, winding staircases. If it's not significantly further than the other gyms, this is the one I would recommend checking out, just to have climbed in a castle.
 
-### The Arch: Building One
+### Arch Climbing Wall: Building One
 
 A pretty nice gym. Three sections. Front with a couple varied problems. Middle section with mostly flat walls. Back section with a good variety. Lots of routes with flexibility, balancing technical problems.
 
@@ -36,3 +36,11 @@ In Cambridge. Two smallish sections. Not much overhang. Lots of flexibility, bal
 ### Nørrebro Klatreklub
 
 Super interesting. No supervision. No liability waiver. Long narrow hallway. A even mix of problems. Had chalk. Routes are rated pretty tough.
+
+### Westway Climbing
+
+Mostly toprope / lead climbing - by the looks of it, a really nice facility for rope climbing. There are some bouldering sections, including a nice overhang section which tends to be a bit rarer in London gyms I've noticed. 
+
+### Arch Climbing Wall: Arch North
+
+A bit further out from central London, but still relatively convenient to the tube station. A lovely bouldering place, with a very nice variety of walls and routes - from roofs to overhangs to more balance based walls.
