@@ -15,8 +15,7 @@ Late static bindings, a feature that Hack inherited from PHP (5.3.0), is a good 
 
 Let's say that you have a base class with some static methods.
 
-{% highlight hack %}
-
+```php
 class BaseClass {
   public static function print_name(): void {
     print "BaseClass\n";
@@ -36,26 +35,22 @@ BaseClass::print_info();
 
 > BaseClass
 > No traits
-
-{% endhighlight %}
+```
 
 I can inherit from this class and call the static method again.
 
-{% highlight hack %}
-
+```php
 final class ChildClass extends BaseClass {}
 
 ChildClass::print_info();
 
 > BaseClass
 > No traits
-
-{% endhighlight %}
+```
 
 Even if I override the `print_name` and `additional_info` methods on the child class, calling the `print_info` method on the child class will still produce the same results.
 
-{% highlight hack %}
-
+```php
 final class ChildClass extends BaseClass {
   <<__Override>>
   public static function print_name(): void {
@@ -72,13 +67,11 @@ ChildClass::print_info();
 
 > BaseClass
 > No traits
-
-{% endhighlight %}
+```
 
 I could additionally override the `print_info` method on the child class to achieve the desired result.
 
-{% highlight hack %}
-
+```php
 final class ChildClass extends BaseCla
   <<__Override>>
   public static function print_name(): void {
@@ -101,14 +94,11 @@ ChildClass::print_info();
 
 > ChildClass
 > Overrides all static methods
-
-{% endhighlight %}
+```
 
 Late static bindings allow the programmer to avoid rewriting the `print_info` method by using the `static` syntax.
 
-
-{% highlight hack %}
-
+```php
 class BaseClass {
   public static function print_name(): void {
     print "BaseClass\n";
@@ -147,8 +137,7 @@ ChildClass::print_info();
 
 > ChildClass
 > Overrides two static methods
-
-{% endhighlight %}
+```
 
 The `print_info` method is now "calling context" aware. If I call the static method by invoking it from the base class via `BaseClass::print_info()`, `static` resolves to `BaseClass`. The calling context is `BaseClass`. If I call the static method by invoking it from the child class via `ChildClass::print_info()`, `static` resolves to `ChildClass` without me having to reimplement the function. In this case, the calling context within the `print_info` method is `ChildClass`. 
 
@@ -156,8 +145,7 @@ This feature is actually relatively rare among programming languages. Neither Ja
 
 In addition to `static`, there are two other special keywords that can interact with the "calling context", `self` and `parent`. At face value, these are shorthand for the name of the current class and the name of the parent class, respectively. 
 
-{% highlight hack %}
-
+```php
 class ChildClass extends BaseClass {
   <<__Override>>
   public static function print_name(): void {
@@ -186,8 +174,7 @@ class ChildClass extends BaseClass {
   }
 
 }
-
-{% endhighlight %}
+```
 
 It might appear that `parent_info` and `base_class_info` would behave identically. Similarly, it might appear that `self_info` and `child_class_info` would behave identically. However, this is not the case. Using `parent::` and `self::` forwards along the calling context. 
 
@@ -226,7 +213,7 @@ Together, `self`, `static`, and `parent` already present significant complexity.
 
 The current (as of writing) interaction between __Memoize and late static binding is an example of two features that, when combined, results in unintuitive behavior. 
 
-Hack has the ability to memoize a function. https://docs.hhvm.com/hack/attributes/predefined-attributes#__memoize
+[Hack has the ability to memoize a function.](https://docs.hhvm.com/hack/attributes/predefined-attributes#__memoize)
 
 Unfortunately, the interaction between late static bindings and memoize is not intuitive. As it is currently implemented, __Memoize does not capture the late static binding. `self::` and `static::` both simply resolve to the class name. Luckily, Hack provides the `__MemoizeLSB` attribute to correctly memoize the calling class context. but even if `__Memoize` and late static bindings were to interact as expected and capture the calling context, this would still function as an effective example of the complexity of interaction between two language features. Whomever implemented the latter feature had to know and account for the complexities presented by the first.
 
@@ -236,8 +223,7 @@ In an effort to keep the number of keywords a language uses to a minimum, someti
 
 For instance, Hack allows the use of `self` to access type constants, which can be used to denote a method's return type.
 
-{% highlight hack %}
-
+```php
 final class TypeConstantExample {
   const type T = string;
 
@@ -245,22 +231,19 @@ final class TypeConstantExample {
     return "Hello world!\n";
   }
 }
-
-{% endhighlight %}
+```
 
 One can also use `self::class` to get the name of the current class, as if accessing a static variable on the class. In both of these scenarios, it is exactly the same to use the class's name (if accessible) directly.
 
 But there are two areas of confusion for users. Some are confused as to why Hack's typechecker does not allow you to use `self` directly as a type to return.
 
-{% highlight hack %}
-
+```php
 final class ReturnExample {
   public function return_self(): self { // Actually an error
     return new ReturnExample();
   }
 }
-
-{% endhighlight %}
+```
 
 It is easy to see where the confusion lies. After all, there are two scenarios where `self` functions exactly like the class name. But at the same time, allowing `self` to function completely like a shorthand for the class name simply serves to obscure the fact that when using `self::` to call a static method, it actually has very different semantic meaning from using the class name directly, as demonstrated above.
 
@@ -270,8 +253,7 @@ By reusing `self` in features where the calling class context is not important, 
 
 Finally, let's examine a feature interaction that occurs if we were to add an additional feature to Hack. Currently, neither Hack nor PHP have first class function pointers. But let's imagine we were designing the feature. In order to get a function pointer to a method or a function, let's simply leave off the parentheses that indicate that it is a method invocation. 
 
-{% highlight hack %}
-
+```php
 final class MyExample {
   public static function example_method(): void {
     print "Hello World\n";
@@ -288,13 +270,11 @@ $x();
 $x();
 
 > Hello World
-
-{% endhighlight %}
+```
 
 On its own, function pointers seem like a relatively simple feature. But what about the following?
 
-{% highlight hack %}
-
+```
 class MyExample {
   public static function foo(): void {
     print "Will a child class override me?\n";
@@ -318,8 +298,7 @@ final class ChildExample {
 }
 
 ChildExample::function_pointer_example();
-
-{% endhightlight %}
+```
 
 Does `self::foo` capture the class calling context or not? What is correct here? What would people expect, given that the language also has `self::class`? Is it even legal to capture `self::foo`? Why or why not? If it isn't legal, why is `self::class` legal? 
 

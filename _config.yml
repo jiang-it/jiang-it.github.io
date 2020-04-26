@@ -28,7 +28,7 @@ permalink: /:year/:month/:day/:title.html
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
