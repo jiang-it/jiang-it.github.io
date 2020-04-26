@@ -3,8 +3,7 @@ layout: default
 title:  "LSB: A Case Study of Language Feature Complexity"
 date:   2020-04-25
 
-t
-pe:   Writing 
+type:   Writing 
 categories: programming language design
 ---
 
