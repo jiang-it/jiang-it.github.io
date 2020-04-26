@@ -86,7 +86,7 @@ final class ChildClass extends BaseCla
   <<__Override>>
   public static function print_info(): void {
     ChildClass::print_name();
-
+    ChildClass::additional_info();
   }
 }
 
