@@ -3,7 +3,8 @@ layout: default
 title:  "LSB: A Case Study of Language Feature Complexity"
 date:   2020-04-25
 
-type:   Writing 
+t
+pe:   Writing 
 categories: programming language design
 ---
 
@@ -86,7 +87,7 @@ final class ChildClass extends BaseCla
   <<__Override>>
   public static function print_info(): void {
     ChildClass::print_name();
-    ChildClass::additional_info();
+
   }
 }
 
@@ -274,7 +275,7 @@ $x();
 
 On its own, function pointers seem like a relatively simple feature. But what about the following?
 
-```
+```php
 class MyExample {
   public static function foo(): void {
     print "Will a child class override me?\n";
