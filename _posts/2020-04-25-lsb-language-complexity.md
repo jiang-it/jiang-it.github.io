@@ -34,7 +34,7 @@ class BaseClass {
 BaseClass::print_info();
 
 > BaseClass
-> No traits
+> No additional info
 ```
 
 I can inherit from this class and call the static method again.
@@ -157,19 +157,19 @@ class ChildClass extends BaseClass {
     echo "Overrides two static methods\n";
   }
 
-  public static method parent_info(): void {
+  public static function parent_info(): void {
     parent::print_info();
   }
 
-  public static method base_class_info(): void {
+  public static function base_class_info(): void {
     BaseClass:print_info();
   }
 
-  public static method self_info(): void {
+  public static function self_info(): void {
     self::print_info();
   }
 
-  public static method child_class_info(): void {
+  public static function child_class_info(): void {
     ChildClass::print_info();
   }
 
