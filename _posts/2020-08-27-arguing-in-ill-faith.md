@@ -22,8 +22,11 @@ The nice aspect of Social Security is that the system, despite its size, is well
 Krugman has a very interesting idea about earning that trust and making a persuasive argument to the public. At the start of the book, Krugman says that one of his four tenets of punditry is to be honest about dishonesty. He writes,
 
 > Now we get into the more controversial aspects of punditry. As I've explained, these days everthing is political. And as a result, many public arguments, in economics and everything else, are being made in bad faith. 
+>
 > ...
+>
 > So how should an economist-pundit deal with this reality? One answer, which I know appeals to many economists, is to continue acting as if we were having a good-faith debate: to lay out evidence, explain why it means one view is right and the other is wrong, and stop there. 
+>
 > My view, as you might guess, is that this isn't enough, that it's actually unfair to readers. When you're confronting bad-faith arguments, the public should be informed not just that these arguments are wrong, but that they are in fact being made in bad faith. 
 
 I have my doubts about the efficacy of this strategy because it can too easily be co-opted by the very bad faith actors that the policy is intended to reveal. 
