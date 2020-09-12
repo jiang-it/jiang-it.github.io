@@ -167,7 +167,7 @@ mem = caml_aligned_malloc (request + sizeof (heap_chunk_head),
 And if we take a look at the [source code](https://www.cl.cam.ac.uk/~pes20/hashcaml/hashcaml-current/byterun/misc.c) for that:
 
 ```
-char *caml_aligned_malloc (asize_t size, int modulo, void **block) {   
+char *caml_aligned_malloc (asize_t size, int modulo, void **block) {
   char *raw_mem;   
   uintnat aligned_mem;
   Assert (modulo < Page_size);
