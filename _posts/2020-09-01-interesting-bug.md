@@ -189,7 +189,8 @@ char *caml_aligned_malloc (asize_t size, int modulo, void **block) {
     for (p = p2; p < p3; p++) *p = Debug_filler_align;
   } 
 #endif
-  return (char *) (aligned_mem - modulo); }
+  return (char *) (aligned_mem - modulo); 
+}
 ```
 
 OCaml actually attempts to align the memory to a page for us. So only sometimes will OCaml give us back exactly the size that we asked for. The remaining times, it will actually page align the memory and then give us more memory back than we asked for. 
