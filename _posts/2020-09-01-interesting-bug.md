@@ -115,13 +115,13 @@ The issue occurs when the object rust wants to allocate is larger than the defau
 
 But there's one additional off by one error. It turns out that we have been doing our bookkeeping wrong as well. In the diagrams above, we've set our [limit] at [root] + 8 bytes to account for the OCaml header. However, in our code, we actually do this accounting twice. We do this in two places, which makes it a little harder to spot. But we do have the following:
 
-```
+```c
 ocamlpool_limit = (value*)ocamlpool_root + 1;
 ```
 
 when previously we had already updated the root. 
 
-```
+```c
 ocamlpool_root = (value)((value*)block + 1);
 ```
 
@@ -159,14 +159,14 @@ But once someone did write a file containing a string with a million character s
 
 If we take a look at the [source code](https://github.com/lucasaiu/ocaml/blob/master/byterun/memory.c) for that:
 
-```
+```c
 mem = caml_aligned_malloc (request + sizeof (heap_chunk_head),
     sizeof (heap_chunk_head), &block);
 ```
 
 And if we take a look at the [source code](https://www.cl.cam.ac.uk/~pes20/hashcaml/hashcaml-current/byterun/misc.c) for that:
 
-```
+```c
 char *caml_aligned_malloc (asize_t size, int modulo, void **block) {
   char *raw_mem;   
   uintnat aligned_mem;
