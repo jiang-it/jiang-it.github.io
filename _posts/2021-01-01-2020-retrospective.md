@@ -38,7 +38,7 @@ There were many regulars that we played this year: Smash, Starcraft, Overwatch, 
 **Chess**. We played in one tournament way back in elementary school where we failed to win a game by blundering an endgame and reaching a draw instead. We don’t remember whether it was actually a winnable endgame, but it probably was. This year, with the rise of streamed chess on Twitch and Youtube, we got back into chess, actually learning that first layer beyond the basics. We picked up some basic openings (we exclusively play the London on white and King’s Indian on black), some basic checkmate patterns (ladder some queens and rooks), and some amazing gambits. To close out 2020, we even managed to successfully pull off a Traxler Counter Attack against the Fried Liver attack.
 
 <center>
-<img src="{{ site.baseurl }}/assets/chess/traxler-2020.gif" title="Traxler Counter Attack" width="" height="" />
+<img src="{{ site.baseurl }}/assets/chess/traxler-2020.gif" title="Traxler Counter Attack" width="250" height="" />
 </center>
 
 ## Articles
