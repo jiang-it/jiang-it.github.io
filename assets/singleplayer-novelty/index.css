@@ -12,16 +12,25 @@ button {
 
 .selectable:hover {
   background-color: #31351d;
+}
+
+.selectable:hover span {
   color: white;
 }
 
 .selected {
   background-color: #359464;
+}
+
+.selected span {
   color: white;
 }
 
 .selected:hover {
   background-color: #38d888;
+}
+
+.selected:hover span {
   color: white;
 }
 
@@ -71,15 +80,24 @@ input {
 
 .invalid-word {
   background-color: #973939;
+}
+
+.invalid-word span {
   color: white;
 }
 
 .valid-word {
   background-color: #359464;
+}
+
+.valid-word span {
   color: white;
 }
 
 .valid-word:hover {
   background-color: #38d888;
+}
+
+.valid-word:hover span {
   color: white;
 }
