@@ -1,9 +1,13 @@
+span {
+  color: black;
+}
+
 button {
   border: 2px solid black;
   background-color: white;
-  height: 100px;
-  width: 100px;
-  margin: 10px;
+  height: 85px;
+  width: 85px;
+  margin: 5px;
 }
 
 .selectable {
@@ -100,4 +104,70 @@ input {
 
 .valid-word:hover span {
   color: white;
+}
+
+@media (max-width: 780px) {
+  /* CSS that should be displayed if width is equal to or less than 800px goes here */
+  button {
+    height: 70px;
+    width: 70px;
+    margin: 2px;
+  }
+
+  #submit-button {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 633px) {
+  /* CSS that should be displayed if width is equal to or less than 800px goes here */
+  button {
+    height: 50px;
+    width: 50px;
+    margin: 1px;
+  }
+
+  .letter {
+    font-size: 23px;
+  }
+
+  .score {
+    font-size: 15px;
+  }
+
+  input {
+    height: 42px;
+    margin: 1px;
+    width: 300px;
+  }
+
+  #submit-button {
+    height: 44px;
+    font-size: 15px;
+    border: 1px;
+    width: 58px;
+    font-size: 13px;
+    margin: 1px;
+  }
+}
+
+@media (max-width: 409px) {
+  /* CSS that should be displayed if width is equal to or less than 800px goes here */
+  button {
+    height: 45px;
+    width: 45px;
+    margin: 1px;
+  }
+
+  .letter {
+    font-size: 23px;
+  }
+
+  .score {
+    font-size: 12px;
+  }
+
+  input {
+    width: 200px;
+  }
 }

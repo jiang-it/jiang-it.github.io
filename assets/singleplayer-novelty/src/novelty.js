@@ -231,7 +231,7 @@ class Game extends React.Component {
   render() {
     const theme_div = (
       <div>
-        <h2>{this.state.theme[0]}</h2>
+        <h3>{this.state.theme[0]}</h3>
       </div>
     );
 

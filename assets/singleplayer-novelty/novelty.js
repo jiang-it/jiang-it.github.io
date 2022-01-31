@@ -357,7 +357,7 @@ var Game = (function (_React$Component) {
         var theme_div = React.createElement(
           "div",
           null,
-          React.createElement("h2", null, this.state.theme[0])
+          React.createElement("h3", null, this.state.theme[0])
         );
 
         var tile_choices_div =
