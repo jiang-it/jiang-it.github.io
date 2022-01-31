@@ -169,7 +169,7 @@ input {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 375px) {
   button {
     width: 35px;
   }
