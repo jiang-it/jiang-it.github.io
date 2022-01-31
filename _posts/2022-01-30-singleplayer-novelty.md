@@ -18,8 +18,8 @@ The game resets daily, so people can compare the different words they came up wi
 <div id="novelty_game_container"></div>
 
 <!-- Load React. -->
-<script src="https://unpkg.com/react@16/umd/react.development.min.js" crossorigin></script>
-<script src="https://unpkg.com/react-dom@16/umd/react-dom.development.min.js" crossorigin></script>
+<script src="https://unpkg.com/react@16/umd/react.production.min.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js" crossorigin></script>
 
 <!-- Load our little css and js -->
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/singleplayer-novelty/index.css">
