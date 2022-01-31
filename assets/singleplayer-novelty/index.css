@@ -107,7 +107,6 @@ input {
 }
 
 @media (max-width: 780px) {
-  /* CSS that should be displayed if width is equal to or less than 800px goes here */
   button {
     height: 70px;
     width: 70px;
@@ -120,7 +119,6 @@ input {
 }
 
 @media (max-width: 633px) {
-  /* CSS that should be displayed if width is equal to or less than 800px goes here */
   button {
     height: 50px;
     width: 50px;
@@ -152,7 +150,6 @@ input {
 }
 
 @media (max-width: 409px) {
-  /* CSS that should be displayed if width is equal to or less than 800px goes here */
   button {
     height: 45px;
     width: 45px;
@@ -169,5 +166,11 @@ input {
 
   input {
     width: 200px;
+  }
+}
+
+@media (max-width: 300px) {
+  button {
+    width: 35px;
   }
 }
