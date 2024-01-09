@@ -1,0 +1,26 @@
+---
+layout: default
+title: "2023 Recap"
+date: 2024-01-08
+
+type: Note
+categories: 2023 wrapped
+---
+
+Either as a product of my poor memory, a recency bias, or because the first half of the year actually was truly uneventful, the most memorable parts of the year mingle together in the latter half. However, it would be remiss of me, and unlikely of me, to neglect the biggest accomplishment from the first half of the year–hitting my gym goals.
+
+While being able to achieve them in March might have otherwise indicated too lenient aspirations, clarifying that those goals were ones set nearly 8 years ago may tip the bar in the other direction. The quiet times surrounding the holidays free of distractions and excuses let me make the final push consisting of daily evening gym sessions. Girlboss (or what Spotify describes as Alt Z) music in one ear, empty office gym, brisk walks there and back created a solid routine that stopped immediately once I crossed those elusive weight thresholds. I may never be able to lift those numbers again, but knowing that I could makes stepping into the gym less daunting each time.
+
+(Alt Z is music that's kind of pop, kind of not, kind of sad, kind of upbeat… it's ethereal without being a ballad, rhythmic without being a bop.)
+
+While that marked the end of a long journey, I credit the first trip to LA as inspiring a critical step on a new, very different one that I will spare the details of here. It was nice seeing old friends, including those that life flung far away, for the first time since pre pandemic. People changed but also stayed the same. Though I have been calling that phenomenon “mellowing out”, on further reflection I think it is more of a refinement–a polishing. A sort of smoothing out of rough edges, something that I hope also applies to me.
+
+My trip to Glacier National Park got canceled as a result of flight delays, we did make it out to Grand Teton. Although I would have loved to have actually learned the various settings on my new fangled camera before going there, I think it was a lot of fun nonetheless. I don’t think the photos are that much better than the ones I might have captured on my phone (on account of my poor photography skills), being deliberate and mindful about taking photos helped make them more memorable. I did take a nice photo of my friends on a bridge and I also took a nice one of some boats as well. I do hope I find more occasions to use it more.
+
+<center>
+<img src="{{ site.baseurl }}/assets/grand-teton/boats.PNG" title="Boats in Grand Teton" max-width="100%" />
+</center>
+
+We managed another trip to LA - complete with a full eight and half escape rooms and a trip to the Getty.
+
+And it may seem as if I’ve left the most significant part of the year out, there’s a whole document attempting to detail that so I don’t forget in the future.
